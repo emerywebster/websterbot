@@ -1,5 +1,7 @@
 {
-    "HELLO": "Sweet, let's do this! This is Webb https://cloud.githubusercontent.com/assets/178044/14645174/e872c8d2-0611-11e6-94b3-572349bf3228.jpg!",
+    "HELLO": "Sweet, let's do this! 🙌 How this works :: I'll respond to keywords. Like, maybe you want to see a PHOTO of him. Or check out his PROJECTS. Type a keyword and boom – your wish is my command! Literally. 🤖",
+    "PHOTO": "<img src='webb.jpg'/>",
+    "PROJECTS": "Look, I know this bot is great and oddly relevant given their recent popularity...but it's much faster to review Webb's stuff @ http://emerywebster.com",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Webster is back."
